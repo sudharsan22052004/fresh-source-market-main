@@ -1,0 +1,126 @@
+{
+  "nav": {
+    "home": "Home",
+    "browse": "Browse Produce",
+    "about": "About",
+    "contact": "Contact",
+    "signIn": "Sign In",
+    "sellProduce": "Sell Produce"
+  },
+  "hero": {
+    "title": "Connecting Farmers and Buyers for a Sustainable Future",
+    "subtitle": "Trade directly. Get fair prices. Reduce waste.",
+    "browseProduce": "Browse Produce",
+    "sellNow": "Sell Now"
+  },
+  "stats": {
+    "farmers": "Farmers Connected",
+    "produce": "Produce Traded (kg)",
+    "transactions": "Successful Transactions"
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "subtitle": "Simple steps to connect farmers with buyers",
+    "step1Title": "Farmers Upload",
+    "step1Desc": "List your fresh produce with prices and quantities",
+    "step2Title": "Buyers Browse",
+    "step2Desc": "Search and discover quality produce from verified farmers",
+    "step3Title": "Secure Transaction",
+    "step3Desc": "Complete purchases safely with our trusted payment system"
+  },
+  "benefits": {
+    "title": "Why Choose FarmConnect?",
+    "directTrade": "Direct Trade",
+    "directTradeDesc": "Connect directly with farmers, eliminating middlemen",
+    "fairPricing": "Fair Pricing",
+    "fairPricingDesc": "Farmers get better prices, buyers get quality produce",
+    "freshProduce": "Fresh Produce",
+    "freshProduceDesc": "Farm-fresh products delivered straight to your door",
+    "reduceWaste": "Reduce Waste",
+    "reduceWasteDesc": "Help prevent agricultural waste and support sustainability"
+  },
+  "cta": {
+    "title": "Ready to Get Started?",
+    "subtitle": "Join our community today — where abundance meets opportunity",
+    "getStarted": "Get Started Today"
+  },
+  "footer": {
+    "tagline": "Connecting farmers and buyers for a sustainable future",
+    "quickLinks": "Quick Links",
+    "forFarmers": "For Farmers",
+    "contact": "Contact Info",
+    "sellOnPlatform": "Sell on Our Platform",
+    "farmerGuide": "Farmer's Guide",
+    "pricing": "Pricing",
+    "email": "Email",
+    "phone": "Phone",
+    "address": "Address",
+    "addressValue": "123 Farm Road, Agricultural District",
+    "rights": "All rights reserved."
+  },
+  "browse": {
+    "title": "Browse Fresh Produce",
+    "subtitle": "Discover quality produce directly from verified farmers",
+    "searchPlaceholder": "Search for produce...",
+    "category": "Category",
+    "allCategories": "All Categories",
+    "fruits": "Fruits",
+    "vegetables": "Vegetables",
+    "grains": "Grains & Pulses",
+    "herbs": "Herbs & Spices",
+    "sortBy": "Sort by",
+    "mostRecent": "Most Recent",
+    "priceLowHigh": "Price: Low to High",
+    "priceHighLow": "Price: High to Low",
+    "nearestLocation": "Nearest Location",
+    "viewDetails": "View Details"
+  },
+  "productDetail": {
+    "availableStock": "Available Stock",
+    "category": "Category",
+    "location": "Location",
+    "quantity": "Quantity",
+    "addToCart": "Add to Cart",
+    "description": "Description",
+    "aboutFarmer": "About the Farmer",
+    "verifiedFarmer": "Verified Farmer",
+    "relatedProducts": "You Might Also Like"
+  },
+  "about": {
+    "title": "About FarmConnect",
+    "subtitle": "Building bridges between farmers and buyers",
+    "mission": "Our Mission",
+    "missionText": "We believe every farmer deserves a fair market and every harvest deserves a home. Our platform bridges the gap between farmers, the public, and processors — creating a transparent, collaborative ecosystem that prevents waste and supports prosperity.",
+    "vision": "Our Vision",
+    "visionText": "To create a world where agricultural abundance is never wasted, where farmers are fairly compensated, and where buyers have direct access to fresh, quality produce.",
+    "impact": "Our Impact",
+    "impactText": "Through our platform, we've helped thousands of farmers reach new markets, reduced agricultural waste significantly, and ensured that quality produce reaches those who need it most.",
+    "story": "Our Story",
+    "storyText": "FarmConnect was born from witnessing the challenges farmers face in finding reliable markets for their produce. We saw abundant harvests going to waste while buyers struggled to find fresh, quality products. Our solution: a digital marketplace that connects these two essential groups directly.",
+    "values": "Our Values",
+    "transparency": "Transparency",
+    "transparencyText": "Open, honest dealings between all parties",
+    "sustainability": "Sustainability",
+    "sustainabilityText": "Reducing waste and promoting eco-friendly practices",
+    "fairness": "Fairness",
+    "fairnessText": "Ensuring equitable prices for farmers and buyers",
+    "community": "Community",
+    "communityText": "Building lasting relationships in agriculture"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We'd love to hear from you",
+    "formTitle": "Send us a Message",
+    "name": "Name",
+    "namePlaceholder": "Your name",
+    "email": "Email",
+    "emailPlaceholder": "your.email@example.com",
+    "message": "Message",
+    "messagePlaceholder": "How can we help you?",
+    "sendMessage": "Send Message",
+    "getInTouch": "Get in Touch",
+    "emailUs": "Email Us",
+    "callUs": "Call Us",
+    "visitUs": "Visit Us"
+  }
+}
